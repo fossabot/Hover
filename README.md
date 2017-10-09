@@ -1,6 +1,7 @@
 # Hover.css
 
 [![Join the chat at https://gitter.im/IanLunn/Hover](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IanLunn/Hover?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHover.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHover?ref=badge_shield)
 
 A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
@@ -241,6 +242,9 @@ If you'd like to contribute your own effects, please see the [Contributing Guide
 Hover.css is open source, and made available under a [MIT License](http://www.opensource.org/licenses/mit-license.php). Distribute, use as-is, or modify to your liking in personal and commercial projects. Please retain the original readme and license files.
 
 Retaining the author information at the top of `css/hover.css` and placing it on your credits page or humans.txt is much appreciated.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHover.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHover?ref=badge_large)
 
 ## Hire Ian Lunn
 
